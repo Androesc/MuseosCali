@@ -22,7 +22,7 @@
 ### Pasos para instalar:
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/museos-cali.git
+   git clone https://github.com/Androesc/museos-cali.git
 
 ### Capturas de pantalla:
 
