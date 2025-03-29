@@ -25,7 +25,6 @@
    git clone https://github.com/tu-usuario/museos-cali.git
 
 ### Capturas de pantalla:
-![Captura de pantalla 2025-03-29 163312](https://github.com/user-attachments/assets/4422362e-4244-4372-a14d-086a280bc740)
 ![Captura de pantalla 2025-03-29 163251](https://github.com/user-attachments/assets/a6d7c069-1944-44a2-9d0c-8502cb4f995c)
 ![Captura de pantalla 2025-03-29 163222](https://github.com/user-attachments/assets/72d7c657-676c-494f-b68a-d91b1d7043f8)
 ![Captura de pantalla 2025-03-29 163200](https://github.com/user-attachments/assets/9e02215d-2c60-4a7b-886f-eccb8c98f15c)
@@ -34,3 +33,4 @@
 ![Captura de pantalla 2025-03-29 163051](https://github.com/user-attachments/assets/9df633cb-c676-467c-92a2-1422caeb5f87)
 ![Captura de pantalla 2025-03-29 162935](https://github.com/user-attachments/assets/fd999166-b582-4c6d-9f11-77ea7f02d015)
 ![Captura de pantalla 2025-03-29 163324](https://github.com/user-attachments/assets/53a5dbcc-a3f7-4646-ac5d-8d0f01cd9fe1)
+![Captura de pantalla 2025-03-29 163312](https://github.com/user-attachments/assets/4422362e-4244-4372-a14d-086a280bc740)
