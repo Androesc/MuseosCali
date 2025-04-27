@@ -26,8 +26,8 @@
 
 ### Capturas de pantalla:
 
-![Captura de pantalla 2025-03-29 162935](https://github.com/user-attachments/assets/fd999166-b582-4c6d-9f11-77ea7f02d015)
-![Captura de pantalla 2025-03-29 163051](https://github.com/user-attachments/assets/9df633cb-c676-467c-92a2-1422caeb5f87)
+![Imagen de WhatsApp 2025-04-27 a las 16 25 39_b9b4bc2f](https://github.com/user-attachments/assets/755ca35b-a6a0-489f-8af9-4f30c9c02930)
+![Imagen de WhatsApp 2025-04-27 a las 16 25 39_f714a424](https://github.com/user-attachments/assets/98e94aa0-d6f4-4cfb-8bf6-ae27a7419c40)
 ![Captura de pantalla 2025-03-29 163120](https://github.com/user-attachments/assets/880b2a8b-585b-4dd6-8d47-238524c74bb2)
 ![Captura de pantalla 2025-03-29 163147](https://github.com/user-attachments/assets/74d26e61-3987-4f85-9b39-87079c9a25ba)
 ![Captura de pantalla 2025-03-29 163200](https://github.com/user-attachments/assets/9e02215d-2c60-4a7b-886f-eccb8c98f15c)
